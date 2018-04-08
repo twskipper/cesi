@@ -1,0 +1,9 @@
+workspace:
+  base: /test
+  path: src/github.com/twskipper/cesi
+
+pipeline:
+  build:
+    image: python3:latest
+    commands:
+      - echo "helloworld"
