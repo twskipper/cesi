@@ -1,6 +1,7 @@
 #cesi ( Centralized Supervisor Interface )
 
 cesi is a web interface provides manage [supervizors][1] from same interface.
+not ma...
 
 ## Dependencies
 
